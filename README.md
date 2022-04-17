@@ -1,1 +1,1 @@
-# GoogleCalendaerAPISampleProject
+# GoogleCalendarAPISampleProject
